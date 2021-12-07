@@ -1,0 +1,18 @@
+#first-calculator-basic {
+	.container {
+		max-width: 400px;
+		margin: 50px auto;
+		text-align: center;
+		#btn {
+			padding: 10px 50px;
+			background-color: cadetblue;
+			color: white;
+			text-decoration: none;
+			font-size: 15px;
+		}
+		#result {
+			font-size: 25px;
+			color: red;
+		}
+	}
+}
